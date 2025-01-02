@@ -1,0 +1,118 @@
+button {
+    display: inline-block;
+    width: 85px;
+    height: 25px;
+    background-color: green;
+    margin: 10px;
+    border: 1px solid green;
+    text-align: center;
+}
+.temani {
+    font-family: "Dynapuff";
+    font-size: 14px;
+    font-weight: bold;
+}
+.date {
+    font-family: "Times New Roman", Times, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+strong {
+    color: red;
+    font-size: 17px;
+    font-weight: semibold;
+}
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    justify-content: left;
+    font-family: "Arial", sans-serif;
+    margin-left: 0.5rem;
+}
+.comment {
+font-family: 'Times New Roman', Times, serif;
+font-size: 12px;
+font-weight: normal;
+}
+div {
+    text-align: left;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "times new roman", Times, serif;
+}
+p {
+    text-align: left;
+    font-size: 16px;
+    font-weight: normal;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "times new roman", Times, serif;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+ul li::marker {
+    font-size: 1em;
+    color: red;
+}
+.box {
+    font-family: "Arial";
+    font-size: 16px;
+    font-weight: normal;
+    justify-content: center;
+}
+.foot{
+    text-align: center;
+    margin-top: 10px;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "times new roman", Times, serif;
+}
+.time {
+    display: inline-block;
+    text-align: center;
+    justify-content: left;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+.tags {
+    display: inline-block;
+    text-align: center;
+    justify-content: left;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+.share {
+    display: inline-block;
+    text-align: center;
+    justify-content: left;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+section {
+    display: inline-block;
+    width: 1000px;
+    height: 50px;
+    background-color: grey;
+    margin: 10px;
+    border: 1px solid grey;
+    text-align: center;
+    justify-content: center;
+    font-size: 18px;
+    padding: 0.5em;
+    margin-left: 1em;
+    margin-right: 25%;
+}

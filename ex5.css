@@ -1,0 +1,42 @@
+.image3 {
+background-image: url(images-css/1347517.png);
+background-size: cover;
+height: 300px;
+background-repeat: no-repeat;
+background-position: 90% 90%;
+margin: 100px;
+border: dotted grey;
+}
+.image2 {
+    background-image: url(images-css/Emperor.jpg);
+    background-size: cover;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    margin : 50px;
+    border: solid blue;
+}
+h2 {
+    font-family: "Mea Culpa", sans serif;
+    font-size: 24px;
+    text-align: center;
+}
+.yes {
+border-top: 5px solid red;
+border-bottom: dotted green;
+border-left: 10px dashed blue;
+border-right: 5px solid yellow;
+}
+body {
+    background-color: lightblue;
+    background-image: url(images-css/luffy-meme.jpg);
+    background-size: 100px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+h1 {
+    font-family:"Calibri", sans-serif;
+    font-size: 40px;
+    text-align: center;
+}

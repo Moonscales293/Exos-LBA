@@ -1,0 +1,54 @@
+ .blue {
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.green {
+    color: green;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.orange {
+    color: orange;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.cyan {
+    color: cyan;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.purple {
+    color: purple;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.greenyellow {
+    color: greenyellow;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    font-size: 24px;
+    text-align: center;
+}

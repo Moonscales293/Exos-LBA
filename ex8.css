@@ -1,0 +1,20 @@
+ul {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    gap: 10px;
+    flex-direction: row;
+    list-style: none;
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}

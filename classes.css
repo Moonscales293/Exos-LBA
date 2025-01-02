@@ -1,0 +1,28 @@
+.rgb-test {
+    color: rgb(67, 184, 87);
+}
+.hsl-test {
+    color: hsl(200, 83%, 65%);
+}
+.hexa {
+    color : #db9231;
+}
+.rgba-test {
+    color: rgba(189, 28, 0, 0.5);
+}
+.rgb2 {
+    color : rgb(219, 43, 112)
+}
+.hexa2 {
+    color : #250ef5
+}
+.hsl2 {
+    color :hsl(60, 88%, 43%)
+}
+p {
+    font-size: 36px;
+    text-align: center;
+}
+p:hover {
+    color: grey;
+}
