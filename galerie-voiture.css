@@ -1,0 +1,58 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.box {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.box .cadre {
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    background-color: yellowgreen;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+    position: relative;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.box h1 {
+    font-size: 24px;
+}
+
+.box h2 {
+    font-size: 20px;
+}
+
+.box p {
+    font-size: 24px;
+    color: rgb(250, 233, 3);
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.box h3 {
+    font-size: 16px;
+    font-style: italic;
+}
+
+
